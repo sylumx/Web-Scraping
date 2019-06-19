@@ -1,2 +1,2 @@
 # Web-Scraping
-Web scraping web table code to csv file
+scraping a EPL table DATA from website to csv file
