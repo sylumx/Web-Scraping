@@ -1,1 +1,1 @@
-3x9rr2I4EKhNz9tXnPEYPYvio3XUZDSpyJ1Ygol0cZKOureD#p6cq83kCA1wQqsUf9ou3GZWeTPmNCQvCZGltwRvuOYI
+https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=http://localhost:40961/callback&scope=org:create_api_key+user:profile+user:inference+user:sessions:claude_code+user:mcp_servers+user:file_upload&code_challenge=TQwADqWQ112X78Cw7jnwDgU_16KjJXVU4D4FBkZL3c0&code_challenge_method=S256&state=wlXPwNULg7dXzw_9dF8PRiUiNpPxLb-oDXrVHJA4vng
